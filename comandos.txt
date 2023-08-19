@@ -1,0 +1,20 @@
+  126  git init
+  127  git branch -M main
+  128  git remote add origin https://github.com/AntonioGB1/Checkpoint-18-08-23-PedroGregorio.git
+  129  touch main.js index.html
+  130  git add .
+  131  git commit -m "commit 01 de Pedro Gregorio"
+  132  git push origin main
+  133  git status
+  134  git branch feature
+  135  git checkout feature
+  136  mkdir Hardware Software SeguridadInformatica
+  137  touch Hardware/resumen.txt SeguridadInformatica/resumen.txt Software/resumen.txt
+  138  git add .
+  139  git commit -m "commit 02 Pedro Gregorio"
+  140  git push origin feature
+  141  git checkout main
+  142  mv main.js resumenHardware.txt
+  143  mv index.html resumenSoftware.txt
+  144  touch comandos.txt
+  145  history

@@ -1,0 +1,3 @@
+Tarjeta madre
+Fuente de alimentación
+Tarjeta de video
